@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2015\Projects\PracticeDatagrid\PracticeDatagrid\bin\Debug\PracticeDatagrid.exe.config
+c:\users\user\documents\visual studio 2015\Projects\PracticeDatagrid\PracticeDatagrid\bin\Debug\PracticeDatagrid.exe
+c:\users\user\documents\visual studio 2015\Projects\PracticeDatagrid\PracticeDatagrid\bin\Debug\PracticeDatagrid.pdb
+c:\users\user\documents\visual studio 2015\Projects\PracticeDatagrid\PracticeDatagrid\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\PracticeDatagrid\PracticeDatagrid\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\PracticeDatagrid\PracticeDatagrid\obj\Debug\PracticeDatagrid_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\PracticeDatagrid\PracticeDatagrid\obj\Debug\PracticeDatagrid_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\PracticeDatagrid\PracticeDatagrid\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\PracticeDatagrid\PracticeDatagrid\obj\Debug\PracticeDatagrid.g.resources
+c:\users\user\documents\visual studio 2015\Projects\PracticeDatagrid\PracticeDatagrid\obj\Debug\PracticeDatagrid.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\PracticeDatagrid\PracticeDatagrid\obj\Debug\PracticeDatagrid.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\PracticeDatagrid\PracticeDatagrid\obj\Debug\PracticeDatagrid.exe
+c:\users\user\documents\visual studio 2015\Projects\PracticeDatagrid\PracticeDatagrid\obj\Debug\PracticeDatagrid.pdb
+c:\users\user\documents\visual studio 2015\Projects\PracticeDatagrid\PracticeDatagrid\obj\Debug\SubWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\PracticeDatagrid\PracticeDatagrid\obj\Debug\SubWindow.baml
+C:\Users\user\Documents\Visual Studio 2015\Projects\PracticeDatagrid\PracticeDatagrid\obj\Debug\PracticeDatagrid.csprojResolveAssemblyReference.cache
